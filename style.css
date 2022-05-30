@@ -1,0 +1,73 @@
+.nav-item .nav-link{
+    color:#263153;
+}
+
+.btn-navbar{
+    background-color: #2500f9;
+    border: none;
+    color: #fff;
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+
+
+#titulo{
+    padding-top: 150px;
+}
+#titulo h1{
+    padding-top: 10px;
+    color: #242f51;
+    font-size: 55px;
+    font-weight: bold;
+}
+#titulo p {
+    padding-top: 10px;
+    color: #6d6f73;
+}
+#titulo a{
+    text-decoration: none;
+    color: #3e1ff9;
+}
+
+#background-menu{
+    background-image: url(./img/Layer\ 5.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#backgorund-menu-bolinhas{
+    background-image: url(./img/Vector\ Smart\ Object2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+}
+
+#segunda-secao{
+    padding-top: 80px;
+    margin-left: 50px;
+}
+
+#titulo-segunda-secao{
+    padding-top: 120px;
+}
+#titulo-segunda-secao h3{
+font-size: 30px;
+color: #263153;
+}
+#titulo-segunda-secao p {
+    color: #6d6f73;
+}
+
+#titulo-terceira-secao{
+    padding-top: 100px;
+    
+}
+
+#titulo-terceira-secao h4{
+    color: #263153;
+    font-weight: bold;
+    font-size: 25px;
+}
+#titulo-terceira-secao p{
+    color: #6d6f73;
+}
