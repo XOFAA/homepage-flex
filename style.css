@@ -71,3 +71,62 @@ color: #263153;
 #titulo-terceira-secao p{
     color: #6d6f73;
 }
+
+#quarta-secao h5{
+    color: #242f51;
+    
+}
+#quarta-secao p {
+    color: #6d6f73;
+}
+
+#quinta-secao h5{
+    color: #242f51;
+    
+}
+#quinta-secao p {
+    color: #6d6f73;
+}
+
+#titulo-quinta-secao{
+    padding-top: 100px;
+
+}
+
+#titulo-quinta-secao h2{
+    color: #242f51;
+}
+#titulo-quinta-secao p{
+    color: #6d6f73;
+}
+
+.accordion-body{
+    background-color: #f5f7fa;
+}
+
+.accordion-button{
+    color:#242f51 !important;
+    background-color: #f5f7fa !important;
+}
+.accordion button{
+    color:#242f51;
+    font-weight: bold;    
+    background-color: #f5f7fa;
+    
+}
+.accordion p{
+    color:#6d6f73;
+    
+}
+
+#titulo-download{
+    padding-top: 250px;
+}
+#titulo-download h2{
+color: #242f51;
+}
+#titulo-download p{
+    color: #6d6f73;
+}
+
+
