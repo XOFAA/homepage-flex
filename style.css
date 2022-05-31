@@ -121,6 +121,8 @@ color: #263153;
 
 #titulo-download{
     padding-top: 250px;
+    padding-bottom: 100px;
+  
 }
 #titulo-download h2{
 color: #242f51;
@@ -130,3 +132,32 @@ color: #242f51;
 }
 
 
+#background-download{
+    
+  
+    background-image: url(./img/Vector\ Smart\ Object4.png);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    
+    
+}
+
+
+#backgorund-footer{
+    height: 500px;
+    background-color: #09142e;
+}
+.menu-footer .nav-link {
+   color: #fff;
+}
+
+.menu-footer .nav-link:hover {
+    color: rgb(231, 177, 0);
+ }
+.logos-footer svg{
+    color: #273043;
+}
+
+#copy{
+    color: #384156;
+}
